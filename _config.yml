@@ -4,5 +4,5 @@ title: SPRINT
 logo: /img/LOGO.png
 description: 
 show_downloads: false
-show_github: false
+is_project_page: false
 google_analytics:
