@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: SPRINT
+logo: /img/LOGO.png
+description: 
+show_downloads: false
+
+google_analytics:
