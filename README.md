@@ -12,4 +12,4 @@ If you have any question, please send email to:
 
 **fzhang_at_shsmu.edu.cn**
 
-#### Feng Zhang, Oct 3, 2020
+Feng Zhang, Oct 3, 2020
