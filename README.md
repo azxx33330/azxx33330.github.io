@@ -8,6 +8,8 @@ Identified RESs & repeat annotation files: [https://sourceforge.net/projects/spr
 SPRINT code & binary files: [https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
 
 
-If you have any question, please send email to fzhang_at_shsmu.edu.cn
+If you have any question, please send email to: 
+
+**fzhang_at_shsmu.edu.cn**
 
 #### Feng Zhang, Oct 3, 2020
