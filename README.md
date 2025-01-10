@@ -10,6 +10,8 @@ SPRINT code & binary files: [https://github.com/jumphone/SPRINT](https://github.
 
 If you have any question, please send email to: 
 
-**fzhang_at_shsmu.edu.cn** or **weidong.tian_at_fudan.edu.cn**
+**jumphone_at_outlook.com** or **fzhang15_at_fudan.edu.cn**
 
 Feng Zhang, Oct 3, 2020
+
+[SiteCode](https://github.com/azxx33330/azxx33330.github.io)
